@@ -1,0 +1,60 @@
+/*livraison des 50€*/
+.promo-hero {
+    width: 100%;
+    height: 50px;
+    background-color: #000 !important;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .promo-hero span.promo {
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 30px;
+  }
+
+
+
+  /*barre de menu*/
+  .container-fluid{
+    background-color: #C3AF94;
+  }
+  .container-footer{
+    background-color: #000;
+    position: relative;
+
+  }
+
+
+  #navbar-brand.img {
+    width: 8%;
+    height: 5%;
+  }
+
+
+.bg-light{
+  background-color: #fff;
+  padding-top: 0px;
+
+}
+
+.pagination{
+  justify-content: center;
+}
+
+#nav{
+  padding-bottom: 0px;
+}
+
+#element{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+
+/*panier*/
+
+  /*compte*/
+
+  /*devis*/
+

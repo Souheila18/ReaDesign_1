@@ -1,1 +1,2 @@
-# ReaDesign_1
+# mvc-php
+Introduction au MVC en PHP
